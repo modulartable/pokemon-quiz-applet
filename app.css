@@ -88,6 +88,7 @@ body {
 
 #score {
 position: absolute;
-margin-left: 45vw;
+margin-left: 48vw;
 margin-top: 40vh;
+font-size: 2vh;
 }
